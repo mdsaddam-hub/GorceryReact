@@ -7,7 +7,7 @@ const Navbar = () => {
     //   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
     return (
-        <header className="w-full">
+        <header className="w-full bg-red-300 fixed top-0 left-0 right-0">
             <nav className="mx-auto flex h-[14vh] max-w-350 items-center justify-between px-4 sm:px-6 lg:px-10">
 
                 {/* Logo */}
